@@ -4,3 +4,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alienmisha)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=0ngd92DPgH)
