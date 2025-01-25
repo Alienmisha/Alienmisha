@@ -3,4 +3,4 @@
 <h3 align="center">Computer science student, physicist from Russia 🇷🇺</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alienmisha)](https://github.com/anuraghazra/github-readme-stats)
