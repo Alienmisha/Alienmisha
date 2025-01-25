@@ -3,5 +3,5 @@
 <h3 align="center">Computer science student, physicist from Russia 🇷🇺</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alienmisha)
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alienmisha&theme=solarized_dark)
